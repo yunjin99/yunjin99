@@ -20,7 +20,6 @@
 ![mysql](https://img.shields.io/badge/mysql-4479A1.svg?&style=for-the-badge&logo=mysql&logoColor=white)
 ![oracle](https://img.shields.io/badge/oracle-F80000.svg?&style=for-the-badge&logo=oracle&logoColor=white)
 
-<br>
 ![html5](https://img.shields.io/badge/html5-E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white)
 ![css3](https://img.shields.io/badge/css3-1572B6.svg?&style=for-the-badge&logo=css3&logoColor=white)
 ![javascript](https://img.shields.io/badge/javascript-F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=white)
@@ -46,13 +45,3 @@
 
 ![Yunjin Kim's GitHub stats](https://github-readme-stats.vercel.app/api?username=yunjin99&show_icons=true&theme=dracula) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yunjin99&layout=compact&theme=dracula)  
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyunjin99&count_bg=%23E587B5&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-
----
-
-### ✨ Hi, I'm Yunjin Kim ✨
-
-### I’m currently learning ...🔥
-![Java Badge](http://img.shields.io/badge/-Java-007396?style=flat&logo=Java&logoColor=white) ![Python Badge](http://img.shields.io/badge/-Python-3776AB?style=flat&logo=Python&logoColor=white) ![C Badge](http://img.shields.io/badge/-C-A8B9CC?style=flat&logo=C&logoColor=white) ![MySQL Badge](http://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=MySQL&logoColor=white) ![HTML5 Badge](http://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=HTML5&logoColor=white)  
-![SpringBoot Badge](http://img.shields.io/badge/-SpringBoot-6DB33F?style=flat&logo=SpringBoot&logoColor=white) ![Django Badge](http://img.shields.io/badge/-Django-092E20?style=flat&logo=Django&logoColor=white) ![Android Badge](http://img.shields.io/badge/-Android-3DDC84?style=flat&logo=Android&logoColor=white) ![Ubuntu Badge](http://img.shields.io/badge/-Ubuntu-E95420?style=flat&logo=Ubuntu&logoColor=white)
----
-
