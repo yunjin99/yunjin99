@@ -2,8 +2,6 @@
 
 ![Waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=Hi,%20I'm%20Yunjin%20Kim!&fontAlign=40&fontAlignY=40&color=gradient)
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F______&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-
 ### 🙇 안녕하세요, Back-End Developer로 성장해나가고 있는 김윤진입니다!
 
 <!-- Body -->
@@ -38,12 +36,12 @@
 ### 🚌 Top Langs & Algorithm
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=______&layout=compact)
 [![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=______)](https://solved.ac/profile/______)
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=kiyiji99)](https://solved.ac/profile/kiyiji99)
 
-
+---
 
 ### ✨ Hi, I'm Yunjin Kim ✨
----
+
 ### I’m currently learning ...🔥
 ![Java Badge](http://img.shields.io/badge/-Java-007396?style=flat&logo=Java&logoColor=white) ![Python Badge](http://img.shields.io/badge/-Python-3776AB?style=flat&logo=Python&logoColor=white) ![C Badge](http://img.shields.io/badge/-C-A8B9CC?style=flat&logo=C&logoColor=white) ![MySQL Badge](http://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=MySQL&logoColor=white) ![HTML5 Badge](http://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=HTML5&logoColor=white)  
 ![SpringBoot Badge](http://img.shields.io/badge/-SpringBoot-6DB33F?style=flat&logo=SpringBoot&logoColor=white) ![Django Badge](http://img.shields.io/badge/-Django-092E20?style=flat&logo=Django&logoColor=white) ![Android Badge](http://img.shields.io/badge/-Android-3DDC84?style=flat&logo=Android&logoColor=white) ![Ubuntu Badge](http://img.shields.io/badge/-Ubuntu-E95420?style=flat&logo=Ubuntu&logoColor=white)
